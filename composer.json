@@ -1,0 +1,14 @@
+{
+    "name": "mekdrop/dev_test_mekdrop",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Raimondas Rimkevičius",
+            "email": "raimondas@mekdrop.name"
+        }
+    ],
+    "require": {
+        "slim/slim": "^2.6"
+    }
+}
