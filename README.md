@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/github/license/MekDrop/JobTest-SynergyEffect-GitHubIssuesRegistrator.svg?maxAge=2592000)](License.txt) ![GitHub release](https://img.shields.io/github/release/MekDrop/JobTest-SynergyEffect-GitHubIssuesRegistrator.svg?maxAge=2592000)
+[![License](https://img.shields.io/github/license/MekDrop/JobTest-SynergyEffect-GitHubIssuesRegistrator.svg?maxAge=2592000)](License.txt) 
 
 This is simple app that creates github issues for a job interview.
 
